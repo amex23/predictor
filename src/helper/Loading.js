@@ -12,7 +12,8 @@ export default function Loading() {
       justifyContent="center"
       alignItems="center"
     >
-      <Spinner size="lg" />
+      <h1 className="text-7xl">test header</h1>
+      {/* <Spinner size="lg" /> */}
     </Box>
   );
 }
